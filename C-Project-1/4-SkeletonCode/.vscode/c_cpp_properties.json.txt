@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "MSYS2 MinGW 64-bit",
+      "includePath": [
+        "C:/msys64/mingw64/include",
+        "C:/msys64/mingw64/x86_64-w64-mingw32/include",
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
